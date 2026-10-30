@@ -105,7 +105,7 @@ Si la textura de una luna no carga, la luna **vuelve al color definido en `data.
 ### Documentación consultada
 - Documentación de Three.js: https://threejs.org/docs/
 - Dos archivos de prácticas usados como base: https://codesandbox.io/p/sandbox/ig-s6-forked-jf8l2y https://codesandbox.io/p/sandbox/ig-s7-forked-t48x8z
-- Uso de la IA para acciones leves como establecer el fondo con el diseño del espacio o la integración de la nave espacial en 3D https://share.gemini.google/DiUY8HpWvceo
+- Uso de la IA para acciones leves como establecer el fondo con el diseño del espacio o la integración de la nave espacial en 3D https://share.gemini.google/DiUY8HpWvceo https://share.gemini.google/0hmruDXaFcgZ
 
 ---
 
