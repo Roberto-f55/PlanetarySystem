@@ -109,19 +109,19 @@ Si la textura de una luna no carga, la luna **vuelve al color definido en `data.
 
 ---
 
-## 4. Vídeo de ejecución
+## 3. Vídeo de ejecución
 
 https://youtu.be/-BG0EHeJ9Mg — captura del proyecto en funcionamiento, mostrando la vista  de nave y el recorrido por el sistema. 
 
 ---
 
-## 5. Cómo ejecutarlo
+## 4. Cómo ejecutarlo
 
 Abrir el enlace de CodeSandbox y usar los botones de la interfaz para cambiar de vista y mostrar u ocultar la rejilla.
 
 ---
 
-## 6. Posibles mejoras
+## 5. Posibles mejoras
 
 - Añadir, borrar y mover planetas de forma interactiva (por ejemplo con `TransformControls`).
 - Mostrar información didáctica de cada astro al seleccionarlo.
